@@ -14,7 +14,7 @@ Uygulamanın genel işleyişini ve animasyonlarını aşağıda görebilirsiniz:
 
 Uygulamanın detaylı arayüz tasarımları:
 
-| **Ürün Vitrini** | **Canlı Takip & Ödeme** |
+| **Ana Sayfa** | **Ürün Vitrini** |
 |:---:|:---:|
 | <img src="./assets/Mepas_Home.png" width="300" alt="Ana Sayfa"> | <img src="./assets/Mepas_Products.png" width="300" alt="Takip Sayfası"> |
 
