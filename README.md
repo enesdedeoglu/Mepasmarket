@@ -1,41 +1,40 @@
-# 🛒 Market & Hızlı Teslimat Uygulaması
+# 🛒 Mepas Market Grocery & Fast Delivery App
 
-Bu proje, uçtan uca market alışverişi deneyimi sunan, entegre ödeme sistemine ve canlı kurye takip özelliğine sahip kapsamlı bir mobil uygulamadır.
+This project is a comprehensive mobile application that offers an end-to-end grocery shopping experience, featuring an integrated payment system and live courier tracking.
 
-## 🎥 Uygulama Önizlemesi (Demo)
+## 🎥 App Preview (Demo)
 
-Uygulamanın genel işleyişini ve animasyonlarını aşağıda görebilirsiniz:
+Check out the general workflow and animations of the application below:
 
 <div align="center">
-  <img src="./assets/market.gif" width="600" alt="Uygulama Demo Görüntüsü">
+  <img src="./assets/market.gif" width="600" alt="App Demo">
 </div>
 
-## 📱 Ekran Görüntüleri
+## 📱 Screenshots
 
-Uygulamanın detaylı arayüz tasarımları:
+Detailed interface designs of the application:
 
-| **Ana Sayfa** | **Ürün Vitrini** |
+| **Home Screen** | **Product Showcase** |
 |:---:|:---:|
-| <img src="./assets/Mepas_Home.png" width="300" alt="Ana Sayfa"> | <img src="./assets/Mepas_Products.png" width="300" alt="Takip Sayfası"> |
+| <img src="./assets/Mepas_Home.png" width="300" alt="Home Screen"> | <img src="./assets/Mepas_Products.png" width="300" alt="Product Page"> |
 
-## ✨ Temel Özellikler
+## ✨ Key Features
 
-Bu uygulama sadece arayüzden ibaret olmayıp, gerçek hayat senaryolarına uygun gelişmiş özellikler içerir:
+This application is not just a UI; it includes advanced features suitable for real-world scenarios:
 
-* 💳 **Entegre Ödeme Sistemi:** Kullanıcılar kredi kartlarını güvenle kaydedebilir ve sepet tutarını uygulama içinden anında ödeyebilir. (3D Secure / Cüzdan altyapısı).
-* 🛵 **Canlı Kurye Takibi:** Sipariş verildikten sonra kuryenin konumu harita üzerinde anlık olarak izlenebilir. Tahmini varış süresi (ETA) dinamik olarak güncellenir.
-* 📦 **Dinamik Sepet Yönetimi:** Kolay ürün ekleme, çıkarma ve stok kontrolü.
-* 🔔 **Bildirim Sistemi:** Sipariş durumu değişikliklerinde (Hazırlanıyor, Yolda, Teslim Edildi) anlık bildirimler.
-* 🔔 **Duyarlı Tasarım (Responsive):** Farklı ekran boyutlarına uyumlu yapı.
-  
-## 🛠 Kullanılan Teknolojiler
+* 💳 **Integrated Payment System:** Users can securely save their credit cards and pay the cart amount instantly within the app (3D Secure / Wallet infrastructure).
+* 🛵 **Live Courier Tracking:** Once an order is placed, the courier's location can be tracked instantly on the map. Estimated Time of Arrival (ETA) updates dynamically.
+* 📦 **Dynamic Cart Management:** Easy product addition, removal, and real-time stock control.
+* 🔔 **Notification System:** Instant notifications for order status changes (Preparing, On the Way, Delivered).
+* 📱 **Responsive Design:** Optimized layout compatible with different screen sizes.
 
-Projenin altyapısında kullanılan kütüphaneler ve servisler:
+## 🛠 Tech Stack
+
+Libraries and services used in the project infrastructure:
 
 * **Core:** React Native
-* **Harita & Konum:** [Google Maps API / Apple Maps]
-* **Ödeme Altyapısı:** PayTR
+* **Maps & Location:** [Google Maps API / Apple Maps]
+* **Payment Infrastructure:** PayTR
 * **State Management:** Redux
-* **Navigasyon:**  React Navigation
-* **İkon Seti:** Vector Icons
-
+* **Navigation:** React Navigation
+* **Icon Set:** Vector Icons
